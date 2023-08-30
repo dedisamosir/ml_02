@@ -1,4 +1,4 @@
 1. Matematika
 2. Business Knowledge
-3. Python Programming
+3. Python Code
 4. Git & Git Hub

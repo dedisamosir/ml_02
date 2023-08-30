@@ -1,5 +1,5 @@
 1. Matematika
 2. Business Knowledge
-3. Python Programming
+3. Python
 4. Git & Git Hub
 5. AWS Cloud
